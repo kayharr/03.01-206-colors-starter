@@ -73,7 +73,13 @@ footer {
 
   #column-3 {
     background-color: navy;
+    width: 100%;
   }
+
+  
+  .col-3 {
+    width: 50%;
+    }
 
   footer {
     background-color: aqua;
@@ -98,7 +104,14 @@ footer {
 
   #column-3 {
     background-color: hotpink;
+    width: 33.33%;
+  }
+
   
+  .col-3 {
+    width: 33.33%;
+    }
+
   footer {
     background-color: paleturquoise;
   }
